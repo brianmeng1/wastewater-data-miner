@@ -50,12 +50,10 @@ cp .env.example .env
 streamlit run app/streamlit_app.py
 ```
 
-## Team
-
-Built by **Raghavan Srinivas, Herman Ho, Elsa Xu, Tianne Nguyen, Jackie Chen, and Brian Meng** through the UC Berkeley CDSS Discovery Program, Fall 2024.
-
-## Acknowledgements
+  ## Acknowledgements
 
 - Dan Wang, California State Water Resources Control Board
 - Zwea Htet
 - UC Berkeley CDSS Discovery Program
+
+
