@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+python-dotenv
+requests
+pandas
+streamlit
+scrapy
+selenium
+undetected-chromedriver
+PyMuPDF
+faiss-cpu
+sentence-transformers
+pdfplumber
+groq
+byaldi
+firebase-admin

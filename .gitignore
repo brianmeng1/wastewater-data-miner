@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+output/
+extracted_images/
+*.csv
+!data/.gitkeep
+.ipynb_checkpoints/
