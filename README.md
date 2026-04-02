@@ -1,6 +1,6 @@
 # Wastewater Contaminant Data Miner
 
-Natural language powered data extraction and database generation pipeline for wastewater contaminant literature. Built as part of the UC Berkeley CDSS Discovery Program, Fall 2024.
+Natural language powered data extraction and database generation pipeline for wastewater contaminant literature. Built at UC Berkeley, Fall 2024.
 
 ## Overview
 
@@ -54,6 +54,6 @@ streamlit run app/streamlit_app.py
 
 - Dan Wang, California State Water Resources Control Board
 - Zwea Htet
-- UC Berkeley CDSS Discovery Program
+
 
 
